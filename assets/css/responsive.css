@@ -1,0 +1,47 @@
+@media(max-width:425px){
+    .financial{
+        font-size: 30px !important;
+    }
+}
+
+@media(min-width:425px){
+    /* .fontres{
+        font-size: 9px;
+    } */
+    /* .iconres{
+        margin-top: 0 !important;
+    } */
+}
+
+@media(max-width:768px){
+    .fontres{
+        font-size: 9px;
+    }
+    /* .navcolorres {
+        color: black !important;
+        background-color: white !important;
+    }
+     */
+     
+     
+}
+
+
+@media(max-width:1024px){
+    .iconres{
+        margin-top: 0 !important;
+    
+    }
+    .enter_Email{
+        text-align: center;
+        color: rgb(228, 220, 220) !important;
+    }
+
+    .financial {
+        font-size: 35px;
+        
+    }
+    
+}
+
+
